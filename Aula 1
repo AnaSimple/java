@@ -1,0 +1,5 @@
+mainactivity.java_ interface 
+build config - código 
+r.java - entre a interface e o código mapeia todos xmel java
+pasta res - onde tem os recursos da aplicação 
+androidManifest.xml - mais importante... arquivo que vc configura, autoriza internet.
